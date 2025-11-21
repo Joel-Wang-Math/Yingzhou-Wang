@@ -70,6 +70,5 @@ Teaching
 
 Service and Leadership
 ======
-* Volunteer, MFIS Madison  
 * TA / grader for UW–Madison Mathematics courses  
 
