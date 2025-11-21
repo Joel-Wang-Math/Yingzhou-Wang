@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **M.A. in Mathematics (Foundations of Advanced Studies)**, University of Wisconsin–Madison, 2024–2026 (expected)  
-  *Focus: Optimization, computational mathematics, data science*
+  *Focus: Optimization, Computational Mathematics, Data Science*
 
 * **B.S. in Mathematics & Applied Mathematics**, Beijing Normal University, 2021–2024  
   *Interested in Algebra and Topology*
