@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * **M.A. in Mathematics (Foundations of Advanced Studies)**, University of Wisconsin–Madison, 2024–2026 (expected)  
-  *Focus: Optimization, computational mathematics, inverse problems*
+  *Focus: Optimization, computational mathematics, data science*
 
 * **B.S. in Mathematics & Applied Mathematics**, Beijing Normal University, 2021–2024  
-  
+  *Interested in Algebra and Topology*
 
 Industry Experience
 ======
-* **Quantitative Finance Intern**, Shanghai (Summer 2024)  
+* **Quantitative Finance Intern**, Shanghai (Summer 2025)  
   - Studied Black–Scholes model and numerical Greeks  
   - Practiced options trading strategies (covered call)  
   - Used Python for backtesting and data cleaning  
