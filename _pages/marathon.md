@@ -7,7 +7,8 @@ author_profile: true
 
 Here is a photo from my 10K:
 
-![Marathon photo](https://github.com/Joel-Wang-Math/Yingzhou-Wang/blob/master/images/marathon.JPG)
+![Marathon photo](/Yingzhou-Wang/files/marathon.JPG)
+
 
 Here is the net finishing time: 10:04:16
 
