@@ -8,6 +8,8 @@ author_profile: true
 Here is a photo from my 10K:
 
 ![Marathon photo](images/marathon.JPG)
+![Marathon photo](/assets/images/marathon.JPG)
+
 
 
 Here is the net finishing time: 10:04:16
