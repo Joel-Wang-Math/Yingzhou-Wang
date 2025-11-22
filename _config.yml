@@ -19,15 +19,14 @@ repository               : "Joel-Wang-Math/Yingzhou-Wang"
 
 # Sidebar Author Profile
 author:
-  avatar           : "selfie.PNG"   # Upload your profile photo to /images or /assets
-  name             : "Yingzhou Wang"
-  pronouns         : "he/him"
-  bio              : "Master’s student at UW–Madison studying optimization and computational mathematics."
-  location         : "Madison, Wisconsin"
-  employer         : "UW-Madison"
-  uri              : 
-  email            : "ywang3525@wisc.edu"
-  cv               : "/files/WangYingzhou_CV.pdf"
+  avatar: "selfie.PNG"
+  name: "Yingzhou Wang"
+  pronouns: "he/him"
+  bio: "Master’s student at UW–Madison studying optimization and computational mathematics."
+  location: "Madison, Wisconsin"
+  employer: "UW-Madison"
+  email: "ywang3525@wisc.edu"
+  cv: "/files/WangYingzhou_CV.pdf"
 
   
   # Academic websites
