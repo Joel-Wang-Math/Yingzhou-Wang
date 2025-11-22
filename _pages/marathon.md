@@ -7,12 +7,8 @@ author_profile: true
 
 Here is a photo from my 10K:
 
-![Marathon photo](images/marathon.JPG)
-![Marathon photo](/assets/images/marathon.JPG)
-
-
+![Marathon photo]({{ "/images/marathon.JPG" | relative_url }})
 
 Here is the net finishing time: 10:04:16
-
 
 I will list all my future Marathon/Half Marathon/10K picture and finishing time as a memento.
