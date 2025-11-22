@@ -25,7 +25,10 @@ author:
   location: "Madison, Wisconsin"
   employer: "UW-Madison"
   email: "ywang3525@wisc.edu"
-  cv: "files/WangYingzhou_CV.pdf"
+  links:
+    - label: "CV"
+      icon: "far fa-file-pdf"
+      url: "/Yingzhou-Wang/files/WangYingzhou_CV.pdf"
 
 
   
