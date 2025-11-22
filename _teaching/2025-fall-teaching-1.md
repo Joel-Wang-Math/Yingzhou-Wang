@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/math320/
 venue: "University of Wisconsin–Madison, Department of Mathematics"
-date: 2025 Fall
+date: 2025-08-20
 location: "Madison, Wisconsin"
 ---
 
