@@ -19,7 +19,7 @@ repository               : "Joel-Wang-Math/Yingzhou-Wang"
 
 # Sidebar Author Profile
 author:
-  avatar           : "files/selfie.PNG"   # Upload your profile photo to /images or /assets
+  avatar           : "selfie.PNG"   # Upload your profile photo to /images or /assets
   name             : "Yingzhou Wang"
   pronouns         : "he/him"
   bio              : "Master’s student at UW–Madison studying optimization and computational mathematics."
