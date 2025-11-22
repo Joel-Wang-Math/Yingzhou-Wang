@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a photo from my 10K:
 
-![Marathon photo](marathon.JPG)
+![Marathon photo](images/marathon.JPG)
 
 
 Here is the net finishing time: 10:04:16
