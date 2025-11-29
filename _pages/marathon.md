@@ -9,6 +9,6 @@ Here is a photo from my 10K:
 
 ![Marathon photo](/Yingzhou-Wang/images/marathon.JPG)
 
-Here is the net finishing time: 10:04:16
+Here is the net finishing time: 01:04:16
 
 I will list all my future Marathon/Half Marathon/10K picture and finishing time as a memento.
