@@ -27,7 +27,8 @@ author:
   links:
     - label: "CV"
       icon: "far fa-file-pdf"
-      url: "/Yingzhou-Wang/files/WangYingzhou_CV.pdf"
+      url: "{{ '/files/WangYingzhou_CV.pdf' | relative_url }}"
+
 
 
   
