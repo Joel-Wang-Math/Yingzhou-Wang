@@ -8,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+[▶ **Download Full CV (PDF)**]({{ '/files/WangYingzhou_CV.pdf' | relative_url }}){: .btn .btn--primary }
+
+
 Education
 ======
 * **M.A. in Mathematics (Foundations of Advanced Studies)**, University of Wisconsin–Madison, 2024–2026 (expected)  
