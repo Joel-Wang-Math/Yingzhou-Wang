@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a photo from my 10K:
 
-![Marathon photo]({{ "/images/marathon.JPG" | relative_url }})
+![Marathon photo](/Yingzhou-Wang/images/marathon.JPG)
 
 Here is the net finishing time: 10:04:16
 
